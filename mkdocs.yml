@@ -1,0 +1,10 @@
+site_name: Projeto Databricks - Arquitetura Medalhão
+site_author: Lucas Vitali Magenis
+site_description: Pipeline Lakehouse com Databricks
+
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
