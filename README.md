@@ -84,3 +84,14 @@ Gold
 
 Felipe Rosseto da Silva
 Lucas Vitali Magenis
+
+---
+
+## 📚 Referências
+
+- Databricks Documentation — https://docs.databricks.com/
+- Apache Spark Documentation — https://spark.apache.org/docs/latest/
+- Delta Lake Documentation — https://docs.delta.io/latest/
+- MkDocs Documentation — https://www.mkdocs.org/
+- Material for MkDocs — https://squidfunk.github.io/mkdocs-material/
+- Kimball Group — https://www.kimballgroup.com/
