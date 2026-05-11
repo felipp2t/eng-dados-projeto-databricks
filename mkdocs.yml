@@ -8,3 +8,9 @@ theme:
 
 nav:
   - Início: index.md
+  - Arquitetura Medalhão: arquitetura.md
+  - Pipeline de Dados: pipeline.md
+  - Camada Silver: silver.md
+  - Camada Gold: gold.md
+  - Jobs & Pipelines: jobs.md
+  
